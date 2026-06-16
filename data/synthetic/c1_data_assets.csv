@@ -1,0 +1,6 @@
+asset_id,asset_label,data_category,us_persons,us_devices,foreign_access_path
+C1-001,Synthetic patient portal,personal_health_data,18500,0,offshore support vendor in country of concern
+C1-002,Synthetic location SDK,precise_geolocation_data,0,920,ad-tech exchange outside United States
+C1-003,Synthetic payroll archive,covered_personal_identifiers,65000,0,no foreign access identified
+C1-004,Synthetic genomic research file,human_genomic_data,125,0,foreign university research collaborator
+C1-005,Synthetic payment ledger,personal_financial_data,7500,0,cloud analytics vendor outside United States

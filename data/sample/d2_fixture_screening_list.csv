@@ -1,0 +1,4 @@
+source,name,type,programs,remarks
+Fixture OFAC SDN,Blocked Example Holdings,Entity,SYNTHETIC,teaching fixture only
+Fixture BIS Entity List,Redacted Quantum Trading Limited,Entity,SYNTHETIC,teaching fixture only
+Fixture CSL,Denied Synthetic Research Bureau,Entity,SYNTHETIC,teaching fixture only

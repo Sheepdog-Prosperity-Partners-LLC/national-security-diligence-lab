@@ -1,0 +1,5 @@
+record_id,entity_name,technology_flags,country_nexus_flag,triage_result,rationale
+SYN-A2-001,SYN Aurora Compute Labs,artificial_intelligence,true,escalate,"Covered-technology terms and country-of-concern nexus both appeared. Matched terms: ai, artificial intelligence, computer vision, hong kong, model training, prc."
+SYN-A2-002,SYN Meridian Packaging,semiconductors_microelectronics,false,review,"One side of the outbound screen appeared; complete the four-question analysis. Matched terms: advanced packaging, integrated circuit."
+SYN-A2-003,SYN Harbor Marketplaces,,false,no_trigger,No obvious public triage trigger appeared in the supplied text.
+SYN-A2-004,SYN QKD Instruments,quantum,true,escalate,"Covered-technology terms and country-of-concern nexus both appeared. Matched terms: macau, quantum, quantum key distribution, quantum sensing."

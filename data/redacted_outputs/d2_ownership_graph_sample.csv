@@ -1,0 +1,3 @@
+target,flagged_owner_percent,ofac_50_percent_teaching_signal,owners_seen,posture
+Synthetic Target A,55.00,review,Blocked Example Holdings; Redacted Listed LP; Ordinary Investor LP,synthetic_lead_only
+Synthetic Target B,15.00,below_synthetic_threshold,Ordinary Founder; Blocked Example Holdings,synthetic_lead_only

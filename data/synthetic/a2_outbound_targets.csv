@@ -1,0 +1,5 @@
+record_id,entity_name,description,country_nexus,ownership_notes
+SYN-A2-001,SYN Aurora Compute Labs,"Develops artificial intelligence model training tools for computer vision and battlefield simulation demos.","Hong Kong operating subsidiary","Synthetic ownership notes say a PRC parent owns 60 percent."
+SYN-A2-002,SYN Meridian Packaging,"Provides advanced packaging process consulting for integrated circuit assembly.","No country-of-concern nexus in synthetic facts","Synthetic founder-owned US company."
+SYN-A2-003,SYN Harbor Marketplaces,"Runs logistics marketplace software for grocery wholesalers.","Argentina and Brazil sales offices only","Synthetic founder-owned company with regional sales offices."
+SYN-A2-004,SYN QKD Instruments,"Builds quantum key distribution test equipment and quantum sensing prototypes.","Macau reseller relationship","Synthetic minority investor in Macau."

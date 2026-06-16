@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ns-diligence-lab"
+version = "0.1.0"
+description = "Starter public-data helpers for US national-security diligence source literacy."
+requires-python = ">=3.10"
+authors = [{name = "Noah Green CPA CFE"}]
+license = {text = "MIT"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,4 @@
+# Starter code uses only the Python standard library.
+# Add dependencies only after an OSS-first and non-PRC dependency review.
+# Candidate libraries for the D2 build (pending review): a graph library for ownership tracing,
+# a CSV/dataframe library for screening joins, and an HTTP client for the Trade.gov CSL API.

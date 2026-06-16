@@ -1,0 +1,6 @@
+deal_id,synthetic_deal_type,foreign_buyer,foreign_lp_control_rights,country_of_concern_nexus,outbound_investment,covered_technology_text,sanctioned_party_signal,export_control_signal,aml_regulated_target,boi_access_needed,bulk_sensitive_data,foreign_data_access,tainted_capital_signal,internal_whistleblower_report
+D1-001,foreign acquisition of data-rich health platform,yes,no,yes,no,biometric identifiers and personal health data,no,no,no,yes,yes,yes,no,no
+D1-002,US fund follow-on investment in quantum supplier,no,no,yes,yes,quantum sensing and advanced computing,no,yes,no,no,no,no,no,no
+D1-003,industrial target with sanctioned distributor,no,no,no,no,commercial industrial equipment,yes,no,no,yes,no,no,yes,no
+D1-004,financial-services target with internal AML report,no,no,no,no,payments compliance system,no,no,yes,yes,no,no,no,yes
+D1-005,ordinary domestic software acquisition,no,no,no,no,workflow software,no,no,no,no,no,no,no,no

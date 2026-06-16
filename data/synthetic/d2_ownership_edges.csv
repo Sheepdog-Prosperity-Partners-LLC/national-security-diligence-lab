@@ -1,0 +1,6 @@
+owner,owned,percent,flagged_owner,notes
+Blocked Example Holdings,Synthetic Target A,35,yes,synthetic flagged owner
+Redacted Listed LP,Synthetic Target A,20,yes,synthetic flagged owner
+Ordinary Investor LP,Synthetic Target A,45,no,synthetic ordinary owner
+Ordinary Founder,Synthetic Target B,60,no,synthetic ordinary owner
+Blocked Example Holdings,Synthetic Target B,15,yes,synthetic flagged owner

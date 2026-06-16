@@ -1,0 +1,5 @@
+query_name,candidate_name,source,score,posture
+Synthetic Aero Components LLC,,,0.0000,no_current_signal_from_supplied_list
+Redacted Quantum Trading Ltd,Redacted Quantum Trading Limited,Fixture BIS Entity List,0.9333,lead_only
+Example Health Data Services Inc,,,0.0000,no_current_signal_from_supplied_list
+Blocked Example Holdings,Blocked Example Holdings,Fixture OFAC SDN,1.0000,lead_only
